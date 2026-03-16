@@ -15,8 +15,16 @@ I love playing with AI, building tools, and working on projects that sit at the 
 | 🖥️ [TechyOS](https://github.com/techy252425/TechyOS) | Unified personal intelligence platform |
 | 🤖 [ScreenAssistant](https://github.com/Anes-03/ScreenAssistant) | AI-powered PDF form assistant for macOS |
 | 🚀 [LaunchSprint](https://github.com/Anes-03/LaunchSprint) | Launchpad replacement for macOS |
-| 🌐 [MenuPy](https://github.com/Anes-03/MenuPy) | Run Python scripts from your menu bar |
+| 🌐 [LaunchSprint Website](https://github.com/Anes-03/LaunchSprint-Website) | Website for LaunchSprint |
+| 🐍 [MenuPy](https://github.com/Anes-03/MenuPy) | Run Python scripts from your menu bar |
+| 🌐 [MenuPy Website](https://github.com/Anes-03/MenuPy-Website) | Website for MenuPy |
 | 🥽 [YouVision](https://github.com/Anes-03/YouVision) | YouTube experience for Apple Vision Pro |
+| ✏️ [Code WebEditor](https://github.com/Anes-03/Code-WebEditor) | Browser-based code editor |
+| 📝 [Markdown WebEditor](https://github.com/Anes-03/Markdown-WebEditor) | Lightweight Markdown editor with live preview |
+| 🏠 [252425 Homelab](https://github.com/Anes-03/252425-Homelab) | Personal homelab experiments |
+| 📰 [Homelab Blog](https://github.com/Anes-03/252425-Homelab-Blog) | Homelab blog |
+| 🌦️ [252425 Wetter](https://github.com/Anes-03/252425-Wetter) | Weather app |
+| 📺 [A-Ultra Website](https://github.com/Anes-03/A-Ultra-Website) | Official website for A-Ultra YouTube channel |
 
 ---
 

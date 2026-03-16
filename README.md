@@ -1,14 +1,4 @@
-<!-- profile -->
 <div align="center">
-
-```
-████████╗███████╗ ██████╗██╗  ██╗██╗   ██╗
-   ██╔══╝██╔════╝██╔════╝██║  ██║╚██╗ ██╔╝
-   ██║   █████╗  ██║     ███████║ ╚████╔╝
-   ██║   ██╔══╝  ██║     ██╔══██║  ╚██╔╝
-   ██║   ███████╗╚██████╗██║  ██║   ██║
-   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=480&lines=AI+%7C+Apple+%7C+Linux;Building+the+future%2C+one+commit+at+a+time.;Always+learning.+Always+shipping." alt="Typing SVG" />
 
@@ -26,10 +16,8 @@
 
 ### 🚀 What I'm building
 
-```
-▸ ScreenAssistant  — AI-powered PDF form assistant for macOS
-▸ TechyOS          — Unified personal intelligence platform
-```
+- **ScreenAssistant** — AI-powered PDF form assistant for macOS
+- **TechyOS** — Unified personal intelligence platform
 
 ---
 

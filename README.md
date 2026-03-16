@@ -14,7 +14,6 @@ I also run **[252425 HOMELAB](https://252425.xyz)** together with [@Anes-03](htt
 
 | Project | What it is |
 |--------|------------|
-| 🖥️ [TechyOS](https://github.com/techy252425/TechyOS) | Unified personal intelligence platform |
 | 🤖 [ScreenAssistant](https://github.com/Anes-03/ScreenAssistant) | AI-powered PDF form assistant for macOS |
 | 🚀 [LaunchSprint](https://github.com/Anes-03/LaunchSprint) | Launchpad replacement for macOS |
 | 🌐 [LaunchSprint Website](https://github.com/Anes-03/LaunchSprint-Website) | Website for LaunchSprint |

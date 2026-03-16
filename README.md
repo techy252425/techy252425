@@ -12,19 +12,19 @@ I also run **[252425 HOMELAB](https://252425.xyz)** together with [@Anes-03](htt
 
 ### 🚀 Projects I'm involved in
 
-| Project | What it is |
-|--------|------------|
-| 🚀 [LaunchSprint](https://github.com/Anes-03/LaunchSprint) | Launchpad replacement for macOS |
-| 🌐 [LaunchSprint Website](https://github.com/Anes-03/LaunchSprint-Website) | Website for LaunchSprint |
-| 🐍 [MenuPy](https://github.com/Anes-03/MenuPy) | Run Python scripts from your menu bar |
-| 🌐 [MenuPy Website](https://github.com/Anes-03/MenuPy-Website) | Website for MenuPy |
-| 🥽 [YouVision](https://github.com/Anes-03/YouVision) | YouTube experience for Apple Vision Pro |
-| ✏️ [Code WebEditor](https://github.com/Anes-03/Code-WebEditor) | Browser-based code editor |
-| 📝 [Markdown WebEditor](https://github.com/Anes-03/Markdown-WebEditor) | Lightweight Markdown editor with live preview |
-| 🏠 [252425 Homelab](https://github.com/Anes-03/252425-Homelab) | Personal homelab experiments |
-| 📰 [Homelab Blog](https://github.com/Anes-03/252425-Homelab-Blog) | Homelab blog |
-| 🌦️ [252425 Wetter](https://github.com/Anes-03/252425-Wetter) | Weather app |
-| 📺 [A-Ultra Website](https://github.com/Anes-03/A-Ultra-Website) | Official website for A-Ultra YouTube channel |
+| | Project | What it is |
+|---|--------|------------|
+| 🚀 | [LaunchSprint](https://github.com/Anes-03/LaunchSprint) | Custom app launcher for macOS — fullscreen grid, folders & global hotkey |
+| 🌐 | [LaunchSprint Website](https://github.com/Anes-03/LaunchSprint-Website) | Website for LaunchSprint |
+| 🐍 | [MenuPy](https://github.com/Anes-03/MenuPy) | Run Python scripts directly from the macOS menu bar |
+| 🌐 | [MenuPy Website](https://github.com/Anes-03/MenuPy-Website) | Website for MenuPy |
+| 🥽 | [YouVision](https://github.com/Anes-03/YouVision) | YouTube experience for Apple Vision Pro |
+| ✏️ | [Markdown WebEditor](https://github.com/Anes-03/Markdown-WebEditor) | Client-side Markdown editor with live preview, works offline |
+| 💻 | [Code WebEditor](https://github.com/Anes-03/Code-WebEditor) | Browser-based code editor |
+| 🌦️ | [252425 Wetter](https://github.com/Anes-03/252425-Wetter) | Weather app |
+| 📺 | [A-Ultra Website](https://github.com/Anes-03/A-Ultra-Website) | Official website for the A-Ultra YouTube channel |
+| 🏠 | [252425 Homelab](https://github.com/Anes-03/252425-Homelab) | Personal homelab experiments |
+| 📰 | [Homelab Blog](https://github.com/Anes-03/252425-Homelab-Blog) | Homelab blog |
 
 ---
 
@@ -36,6 +36,13 @@ I also run **[252425 HOMELAB](https://252425.xyz)** together with [@Anes-03](htt
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+---
+
+### 🌐 Links
+
+[![Homelab](https://img.shields.io/badge/252425.xyz-000000?style=for-the-badge&logo=safari&logoColor=white)](https://252425.xyz)
+[![Blog](https://img.shields.io/badge/blog.252425.xyz-1a1a2e?style=for-the-badge&logo=rss&logoColor=white)](https://blog.252425.xyz)
 
 ---
 

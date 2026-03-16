@@ -1,19 +1,16 @@
+<!-- profile -->
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    ████████╗███████╗ ██████╗██╗  ██╗██╗   ██╗                   ║
-║       ██╔══╝██╔════╝██╔════╝██║  ██║╚██╗ ██╔╝                   ║
-║       ██║   █████╗  ██║     ███████║ ╚████╔╝                    ║
-║       ██║   ██╔══╝  ██║     ██╔══██║  ╚██╔╝                     ║
-║       ██║   ███████╗╚██████╗██║  ██║   ██║                      ║
-║       ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝                     ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+████████╗███████╗ ██████╗██╗  ██╗██╗   ██╗
+   ██╔══╝██╔════╝██╔════╝██║  ██║╚██╗ ██╔╝
+   ██║   █████╗  ██║     ███████║ ╚████╔╝
+   ██║   ██╔══╝  ██║     ██╔══██║  ╚██╔╝
+   ██║   ███████╗╚██████╗██║  ██║   ██║
+   ╚═╝   ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%7C+Apple+%7C+Linux;Building+the+future%2C+one+commit+at+a+time.;Always+learning.+Always+shipping." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=480&lines=AI+%7C+Apple+%7C+Linux;Building+the+future%2C+one+commit+at+a+time.;Always+learning.+Always+shipping." alt="Typing SVG" />
 
 ---
 
@@ -36,7 +33,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=techy252425&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<img src="https://github-readme-stats.vercel.app/api?username=techy252425&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
 
 ---
 

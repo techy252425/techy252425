@@ -6,6 +6,8 @@
 
 I love playing with AI, building tools, and working on projects that sit at the intersection of software and everyday life. Into Apple platforms, Linux, and anything that pushes what's possible.
 
+I also run **[252425 HOMELAB](https://github.com/Anes-03/252425-Homelab)** together with [@Anes-03](https://github.com/Anes-03) — a personal lab where we experiment with self-hosted services, networking, and whatever else seems worth breaking.
+
 ---
 
 ### 🚀 Projects I'm involved in

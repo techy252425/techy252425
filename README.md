@@ -12,33 +12,21 @@ I also run **[252425 HOMELAB](https://252425.xyz)** together with [@Anes-03](htt
 
 ### 🚀 Projects I'm involved in
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/Anes-03/LaunchSprint-Website/HEAD/Logo.jpeg" width="60" height="60" style="border-radius:12px" /><br/>
-      <a href="https://github.com/Anes-03/LaunchSprint"><b>LaunchSprint</b></a><br/>
-      <sub>Launchpad replacement for macOS</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/Anes-03/MenuPy-Website/HEAD/App Icon (Logo).png" width="60" height="60" style="border-radius:12px" /><br/>
-      <a href="https://github.com/Anes-03/MenuPy"><b>MenuPy</b></a><br/>
-      <sub>Run Python scripts from your menu bar</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/Anes-03/Markdown-WebEditor/HEAD/Logo.png" width="60" height="60" style="border-radius:12px" /><br/>
-      <a href="https://github.com/Anes-03/Markdown-WebEditor"><b>Markdown WebEditor</b></a><br/>
-      <sub>Lightweight Markdown editor</sub>
-    </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/Anes-03/252425-Homelab-Blog/HEAD/_site/assets/img/logo-invert.png" width="60" height="60" style="border-radius:12px" /><br/>
-      <a href="https://github.com/Anes-03/252425-Homelab-Blog"><b>Homelab Blog</b></a><br/>
-      <sub>blog.252425.xyz</sub>
-    </td>
-  </tr>
-</table>
-
-Also part of:
-[TechyOS](https://github.com/techy252425/TechyOS) · [ScreenAssistant](https://github.com/Anes-03/ScreenAssistant) · [LaunchSprint Website](https://github.com/Anes-03/LaunchSprint-Website) · [MenuPy Website](https://github.com/Anes-03/MenuPy-Website) · [YouVision](https://github.com/Anes-03/YouVision) · [Code WebEditor](https://github.com/Anes-03/Code-WebEditor) · [252425 Wetter](https://github.com/Anes-03/252425-Wetter) · [A-Ultra Website](https://github.com/Anes-03/A-Ultra-Website)
+| Project | What it is |
+|--------|------------|
+| 🖥️ [TechyOS](https://github.com/techy252425/TechyOS) | Unified personal intelligence platform |
+| 🤖 [ScreenAssistant](https://github.com/Anes-03/ScreenAssistant) | AI-powered PDF form assistant for macOS |
+| 🚀 [LaunchSprint](https://github.com/Anes-03/LaunchSprint) | Launchpad replacement for macOS |
+| 🌐 [LaunchSprint Website](https://github.com/Anes-03/LaunchSprint-Website) | Website for LaunchSprint |
+| 🐍 [MenuPy](https://github.com/Anes-03/MenuPy) | Run Python scripts from your menu bar |
+| 🌐 [MenuPy Website](https://github.com/Anes-03/MenuPy-Website) | Website for MenuPy |
+| 🥽 [YouVision](https://github.com/Anes-03/YouVision) | YouTube experience for Apple Vision Pro |
+| ✏️ [Code WebEditor](https://github.com/Anes-03/Code-WebEditor) | Browser-based code editor |
+| 📝 [Markdown WebEditor](https://github.com/Anes-03/Markdown-WebEditor) | Lightweight Markdown editor with live preview |
+| 🏠 [252425 Homelab](https://github.com/Anes-03/252425-Homelab) | Personal homelab experiments |
+| 📰 [Homelab Blog](https://github.com/Anes-03/252425-Homelab-Blog) | Homelab blog |
+| 🌦️ [252425 Wetter](https://github.com/Anes-03/252425-Wetter) | Weather app |
+| 📺 [A-Ultra Website](https://github.com/Anes-03/A-Ultra-Website) | Official website for A-Ultra YouTube channel |
 
 ---
 
